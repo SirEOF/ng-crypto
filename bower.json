@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "main": "./ng-crypto.js",
   "dependencies": {
-    "cryptojslib-aes": "https://github.com/sytelus/CryptoJS.git"
+    "cryptojslib-aes": "https://github.com/sytelus/CryptoJS.git#master"
   },
   "ignore": []
 }
